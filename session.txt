@@ -4,12 +4,22 @@ Then open gitbash from the specific folder by right clicking and choosing open g
 Inside gitbash
 -->$ git config --global user.email "akshayakumar941@gmail.com"
 -->$ git config--global user.name "AKshaya2604"
--->Git init
--->git branch
--->git status(to check if any new file is created)
--->git add (file name)=>staging --- for adding a single file
+-->$Git init
+-->$ git branch
+-->$git status(to check if any new file is created)
+-->$git add (file name)=>staging --- for adding a single file
 OR
--->git add .   ---> for adding all the files present in the folder
+-->$git add .   ---> for adding all the files present in the folder
 -->(additional command )rm -rf file name --->to delete the file from the local system
 -->git reset file name --->to make a file unstaging so that it will not commit
--->
+
+
+----------------------------------------
+Branches:
+create branch and switch:
+$git checkout -b "version1"
+
+after this u can direclty add 
+
+$git checkout branchname--->changing the branch
+
