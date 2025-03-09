@@ -1,5 +1,5 @@
 Git insallation
-
+---------------------
 Then open gitbash from the specific folder by right clicking and choosing open gitbash
 Inside gitbash
 -->Git init
